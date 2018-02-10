@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://riderline.github.io/post/newbies-corner/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riderline.github.io/tags/beginners/</loc>
     <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -19,14 +24,32 @@
   </url>
   
   <url>
+    <loc>https://riderline.github.io/tags/cons/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://riderline.github.io/page/</loc>
     <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://riderline.github.io/post/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://riderline.github.io/tags/qa/</loc>
     <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riderline.github.io/tags/rockstars/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
